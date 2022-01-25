@@ -1,0 +1,6 @@
+yeah , we can make our web application using html,css,plain javasccipt(plain javascript is sometimes called as Vanilla javascript)
+why to use react.js?
+ks se kam js likhna pdhta and app is more organised
+it's a framework 
+we use create app utility for creating basic structure for making the app
+we can simply run by "npm start"
